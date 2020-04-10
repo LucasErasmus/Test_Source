@@ -16,7 +16,7 @@ class ViewController: NSViewController {
         // Do any additional setup after loading the view.
     }
     /**
-     Adds twp numbers together and returns the result.
+     Adds twp numbers together and returns the result. Modified
      - parameter num1: The first number.
      - parameter num2: The second number.
      - returns: The sum of num 1 and num 2.
